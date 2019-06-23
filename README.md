@@ -1,2 +1,9 @@
 # MUIA_Vrep
-Simulation of a robot using fuzzy logic
+
+# Requirements
+
+- Python 3.
+- VRep
+- Scikit-fuzzy: https://pythonhosted.org/scikit-fuzzy/
+- IMPORTANT: Ubuntu/Debian.
+
